@@ -1,0 +1,6 @@
+0:Cincinnati,OH
+1:Louisville,KY
+2:Portland,OR
+3:San Francisco,CA
+4:Austin,TX
+5:Atlanta,GA
